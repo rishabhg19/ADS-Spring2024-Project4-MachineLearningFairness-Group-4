@@ -95,7 +95,7 @@ else:
 # the justice system itself. Since our data is based on court decisions, we are not able to control
 # for the issues within the legal system itself. As a result, we have similar accuracy when
 # predicting, but we can observe an issue within the treatment of the two groups of people
-# even if we are not predicting more repeats
+# even if we are not predicting more repeats. This perhaps is the biggest take of the project
 importances = rfc.feature_importances_
 feature_names = X_train_trunc.columns
 feature_importance_df = pd.DataFrame({'Feature': feature_names, 'Importance': importances})
