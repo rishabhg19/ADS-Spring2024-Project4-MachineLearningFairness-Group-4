@@ -4,7 +4,7 @@
 
 Term: Spring 2024
 
-+ Team #
++ Team #4
 + Project title: Machine Learning Fairness Algorithms
 + Team members
 	+ Rishabh Ganesh
