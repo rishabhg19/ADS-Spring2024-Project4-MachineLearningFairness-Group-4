@@ -5,13 +5,13 @@
 Term: Spring 2024
 
 + Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Project title: Machine Learning Fairness Algorithms
 + Team members
 	+ Rishabh Ganesh
 	+ Qu Fei An
 	+ Rhoan Lee
 	+ Yerin Cho
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: In this project, we use algorithms to improve the fairness of machine learning classifiers on a Compas dataset about recidivism. This dataset is known to be unfair, so machine learning projects involving this dataset benefit from using algorithms that improve fair classification. The first algorithm we look at is classification without disparate mistreatment. Here, we implement the algorithm so that the output of the classifier mitigates disparate impact and mistreatment, making the results more fair. The second algorithm we look at is a fairness aware classifier with a prejudice remover regularizer. Here, we implement the algorithm that is aware of its own fairness...
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
